@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6dc443b4-d77f-46c1-9c54-6c7132a29137" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23SX5rS9ku19vc8FEKyKi1X9hQ7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="preparedstatement" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaStudio\Code\JDBC\bin" />
+      <recent name="D:\JavaStudio\Code\JDBC\src\druid" />
+      <recent name="D:\JavaStudio\Code\JDBC\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaStudio\Code\JDBC\src" />
+      <recent name="D:\JavaStudio\Code\JDBC\bin" />
+      <recent name="D:\JavaStudio\Code\JDBC\src\preparedstatement" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="druid" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.QueryRunnerTest.testSelect">
+    <configuration name="perparedStatementDeleteTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="druid.perparedStatementDeleteTest" />
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="druid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testInsert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apachedbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apachedbutils" />
+      <option name="MAIN_CLASS_NAME" value="apachedbutils.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testInsert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testSelect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apachedbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apachedbutils" />
+      <option name="MAIN_CLASS_NAME" value="apachedbutils.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testSelect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueryRunnerTest.testSelect1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="apachedbutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="apachedbutils" />
+      <option name="MAIN_CLASS_NAME" value="apachedbutils.QueryRunnerTest" />
+      <option name="METHOD_NAME" value="testSelect1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="perparedStatementSelectTest.queryForConnectiontestTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="druid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="druid" />
+      <option name="MAIN_CLASS_NAME" value="druid.perparedStatementSelectTest" />
+      <option name="METHOD_NAME" value="queryForConnectiontestTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.QueryRunnerTest.testSelect" />
+        <item itemvalue="JUnit.QueryRunnerTest.testSelect1" />
+        <item itemvalue="JUnit.QueryRunnerTest.testInsert" />
+        <item itemvalue="JUnit.perparedStatementSelectTest.queryForConnectiontestTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dc443b4-d77f-46c1-9c54-6c7132a29137" name="Changes" comment="" />
+      <created>1641728285117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641728285117</updated>
+      <workItem from="1641728286260" duration="2943000" />
+      <workItem from="1641732812434" duration="117000" />
+      <workItem from="1641733062971" duration="448000" />
+      <workItem from="1641734528679" duration="3638000" />
+      <workItem from="1641780004687" duration="5788000" />
+      <workItem from="1641804334723" duration="1169000" />
+      <workItem from="1641878285838" duration="1000" />
+      <workItem from="1642395735017" duration="18000" />
+      <workItem from="1643030165288" duration="6155000" />
+      <workItem from="1643085469379" duration="4000" />
+      <workItem from="1643096658725" duration="6998000" />
+      <workItem from="1643172184077" duration="1556000" />
+      <workItem from="1643197433961" duration="2104000" />
+      <workItem from="1643207764979" duration="596000" />
+      <workItem from="1643385701312" duration="759000" />
+      <workItem from="1644157553007" duration="6200000" />
+      <workItem from="1644163817164" duration="1814000" />
+      <workItem from="1644165664887" duration="1109000" />
+      <workItem from="1644209564523" duration="1293000" />
+      <workItem from="1644210889018" duration="741000" />
+      <workItem from="1644211653526" duration="6137000" />
+      <workItem from="1652231037670" duration="28000" />
+      <workItem from="1652231077252" duration="25000" />
+      <workItem from="1652231113166" duration="200000" />
+      <workItem from="1652231329031" duration="534000" />
+      <workItem from="1652269340488" duration="13000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
